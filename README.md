@@ -17,6 +17,11 @@ Do I focus on the algorithm? Do I focus on the implementation? A bit of both? I 
 ### Lacks humour
 Existing C++ docs gets rid of the fun in learning. They are boring and meandering and long and confusing. 
 
+
+# Contents
+
+This page will contain many basic, intermediate, and hopefully advanced algorithms discussed and implemented in the simplest forms. We will try to nail down the strategy at first, be concise yet elaborate and descriptive, and most importantly be engaging and funny :) 
+
 I end this page with a famous quote which I keep reminding myself to stay on track of an algorithmic implementation / when I play chess. It sort of allows me to introspect my ideas and implementation as I'm writing any piece of code on the go...
 
 ### "Strategy without tactics is the slowest route to victory. Tactics without strategy are the noise before defeat." - Sun Tzu 
