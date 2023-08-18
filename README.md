@@ -4,7 +4,7 @@ All things C++
 # Yet another C++ tutorial - ugh, why?!
 
 Firstly, I apologise. I could not help myself. But in all honesty I can't find exactly what I need out there. Sometimes there's too much code, sometimes a lot of explanation - it's um... very difficult to follow things without really getting into the details. THIS IS A PROBLEM! 
-Now is there a solution? Maybe? Maybe no? Let's figure it out! Let's learn C++ ~the right~ my way!
+Now is there a solution? Maybe yes? Maybe no? Let's figure it out! Let's learn C++ ~the right~ my way!
 
 # The problem with the problem
 
