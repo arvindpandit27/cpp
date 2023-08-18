@@ -17,6 +17,10 @@ Do I focus on the algorithm? Do I focus on the implementation? A bit of both? I 
 ### Lacks humour
 Existing C++ docs gets rid of the fun in learning. They are boring and meandering and long and confusing. 
 
+#Why do we care about learning to write good code?
+- Unfortunately since a lot of people code, there's a ton of crap code out there. We need to be able to distinguish good and bad.
+- Good code is reusable. But writing generalised code is hard. You don't want to solve the same problem again, so it makes sense to write good code
+- We want the piece of code to solve our problem with minimal resources (time and memory). Often this isn't a problem if the task is not real-time. But this approach is fun!
 
 # Contents
 
