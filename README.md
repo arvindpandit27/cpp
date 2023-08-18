@@ -9,13 +9,14 @@ Now is there a solution? Maybe yes? Maybe no? Let's figure it out. Let's learn C
 # The problem with the problem
 
 ### No single solution
-Coding is like um... abstract art. But not as ~illogical~ crazy. There is surely a method to the madness. 99.9% of times, there is no single way to write a piece of code. For me personally, being a novice at coding with intermediate math skills, this is often a very difficlt problem.
+Coding is like um... abstract art. But not as ~illogical~ crazy. There is surely a method to the madness. 99.9% of times, there is no single way to write a piece of code. For me personally, being a novice at coding with intermediate math skills, this is often a very difficult problem.
 
-### Too long to read
+### The Multi-domain aspect
 Do I focus on the algorithm? Do I focus on the implementation? A bit of both? I get lost in the details so easily! 
 
 ### Lacks humour
 Existing C++ docs gets rid of the fun in learning. They are boring and meandering and long and confusing. 
+
 
 #Why do we care about learning to write good code?
 - Unfortunately since a lot of people code, there's a ton of crap code out there. We need to be able to distinguish good and bad.
